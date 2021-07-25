@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Abhinav Sagar "abhinavsagar4@gmail.com"
+MAINTAINER Utkarsh Nimavat "framboogle@gmail.com"
 
 
 RUN apt -y update &&\
