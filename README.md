@@ -1,3 +1,3 @@
 # Docker-Automation
-Automation for MYS forecasts using Docker
-See internal documentation for getting started
+Automation for MYS forecasts using Docker  
+See internal documentation for getting started or email me   
